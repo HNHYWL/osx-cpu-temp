@@ -1,6 +1,7 @@
 # OSX CPU Temp
 
 Outputs current CPU temperature for OSX.
+输出osx系统当前CPU的温度
 
 ## Usage 
 
